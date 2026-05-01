@@ -113,7 +113,3 @@ Final score is clamped to **0–100**, and mapped to a rating:
 
 - `password_analyzer.py` — CLI tool + analysis + optional history + generators
 - `output.png` — example output screenshot
-
-## License
-
-No license file is included. If you want others to use/modify this project, consider adding a license (e.g., MIT).
